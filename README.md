@@ -1,4 +1,4 @@
-# Shadow of the Atom
+# Atomic Sun
 
 > I went out walking  
 > Under an atomic sky  
