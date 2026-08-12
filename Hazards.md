@@ -1,8 +1,8 @@
 # Hazards
 ## Chimera Infection
-## Tangleweed
-## Blindweed
-## Stranglevines
+## Snareweed
+## Blindblooms
+## Tanglevines
 ## Lightningsand
 ## Radstorm
 ## Bodybog
