@@ -1,4 +1,4 @@
-# Perks
+# Distinctions
 ## Ace
 You may treat a natural 1 rolled on a d20 as a natural 20 and a natural 1 rolled on any boon as a natural 6. 
 ## Lucky
